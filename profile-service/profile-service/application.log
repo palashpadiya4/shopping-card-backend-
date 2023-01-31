@@ -1,0 +1,22 @@
+2022-05-21 01:21:33,015 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=2h1m27s377ms216µs100ns).
+2022-05-21 01:22:36,441 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 01:27:36,871 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 03:33:58,750 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 03:33:58,750 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=2h2m14s318ms65µs700ns).
+2022-05-21 03:35:04,774 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=1m6s23ms381µs400ns).
+2022-05-21 03:39:34,661 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 05:45:01,577 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=2h1m26s677ms81µs100ns).
+2022-05-21 05:45:31,332 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 05:50:31,336 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 07:56:26,947 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 07:56:27,343 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=2h1m25s625ms11µs300ns).
+2022-05-21 08:01:26,962 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 08:06:26,973 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 10:07:54,707 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=2h1m27s209ms329µs200ns).
+2022-05-21 10:12:24,165 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 10:17:24,168 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 12:19:20,521 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=2h1m25s682ms562µs500ns).
+2022-05-21 12:23:19,846 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 12:28:19,854 INFO  ConfigClusterResolver:43 - [] Resolving eureka endpoints via configuration
+2022-05-21 13:08:02,608 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=38m41s941ms643µs300ns).
+2022-05-21 13:11:13,632 WARN  HikariPool$HouseKeeper:788 - [] HikariPool-4 - Thread starvation or clock leap detected (housekeeper delta=2m41s29ms342µs).
